@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T06:20:15.804Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="17.4.3" etag="JWuUckfxzPiiaX7sUHWI" type="github"><diagram id="4rMVL3ACZeqUY7f8Ce2F">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T10:44:22.625Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tRxLQu8xsv-lvZRQZ0VU" version="17.4.3" type="github">
+  <diagram id="4rMVL3ACZeqUY7f8Ce2F" name="Page-1">
+    <mxGraphModel dx="2177" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-1" target="aiIhPFOHxHCWezgY-GMS-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-65" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-65" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-1" value="Create NFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="180" width="90" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-44" target="aiIhPFOHxHCWezgY-GMS-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-44" value="Lazy Mint&lt;br&gt;(NFT Transferred from the seller)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-99" target="aiIhPFOHxHCWezgY-GMS-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-99" target="aiIhPFOHxHCWezgY-GMS-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-99" value="NFT Transferred to the seller" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="37.5" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-123" target="aiIhPFOHxHCWezgY-GMS-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-123" value="Hot Mint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-126" value="Token Price Updated" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="350" width="145" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-128" target="aiIhPFOHxHCWezgY-GMS-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-128" value="Generate hash using payload and then validate signature" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-130" target="aiIhPFOHxHCWezgY-GMS-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-130" target="aiIhPFOHxHCWezgY-GMS-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-130" value="Safe Buy(NFT transferred from sellers account)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-133" target="aiIhPFOHxHCWezgY-GMS-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-133" value="Generate hash using payload and then validate signature" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-135" value="Set commision for the NFT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-137" value="Update Token Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-141" value="Commision Receiver received the default commision" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.348;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-145" target="aiIhPFOHxHCWezgY-GMS-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-145" value="NFT transferred into buyer&#39;s account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-147" value="&lt;span&gt;NFT transferred into buyer&#39;s account&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aiIhPFOHxHCWezgY-GMS-157" target="aiIhPFOHxHCWezgY-GMS-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aiIhPFOHxHCWezgY-GMS-157" value="Buyer become the seller" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-150" width="270" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
